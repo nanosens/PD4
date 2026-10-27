@@ -105,5 +105,5 @@ project/
 | Участник | Зона ответственности | GitHub |
 |----------|---------------------|--------|
 | Андрухов Иван | Координация команды, Backend | [Профиль](https://github.com/nanosens) |
-| Шушаков Евгений | Серверная часть, БД, Tester | [Профиль](https://github.com/) |
+| Шушаков Евгений | Серверная часть, БД, Tester | [Профиль](https://github.com/geniiewgenii-commits) |
 | Бызов Николай | Frontend, Backend | [Профиль](https://github.com/buzov2310) |
