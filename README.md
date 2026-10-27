@@ -106,4 +106,4 @@ project/
 |----------|---------------------|--------|
 | Андрухов Иван | Координация команды, Backend | [Профиль](https://github.com/nanosens) |
 | Шушаков Евгений | Серверная часть, БД, Tester | [Профиль](https://github.com/) |
-| Бызов Николай | Frontend, Backend | [Профиль](https://github.com/) |
+| Бызов Николай | Frontend, Backend | [Профиль](https://github.com/buzov2310) |
